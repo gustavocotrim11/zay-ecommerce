@@ -2,7 +2,7 @@
 
 Projeto final do módulo de Web Front-End Estática do curso de formação Santander Coders - Let's Code.
 
-Enunciado
+Enunciado:
 Crie uma página html a partir dos templates de exemplo inseridos no drive da turma.
 
 - Utilize alguma biblioteca de CSS, de preferência o bootstrap para facilitar a estilização.
